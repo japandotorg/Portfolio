@@ -2,6 +2,10 @@
     "name": "@japandotorg/portfolio",
     "version": "0.1.0",
     "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
     "devDependencies": {
         "@vue/cli-plugin-typescript": "^5.0.8",
         "@vue/cli-service": "^5.0.8",
