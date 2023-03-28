@@ -1,0 +1,14 @@
+{
+    "name": "@japandotorg/portfolio",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "@vue/cli-plugin-typescript": "^5.0.8",
+        "@vue/cli-service": "^5.0.8",
+        "typescript": "^5.0.2"
+    },
+    "dependencies": {
+        "vue": "^3.2.47",
+        "vue-router": "^4.1.6"
+    }
+}
