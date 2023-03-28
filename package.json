@@ -6,13 +6,23 @@
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build"
     },
+    "license": "MIT",
+    "author": "Lemon <japandotorg@pm.me> [inthedark.org#0666]",
     "devDependencies": {
         "@vue/cli-plugin-typescript": "^5.0.8",
         "@vue/cli-service": "^5.0.8",
+        "node-sass": "^8.0.0",
+        "sass-loader": "^13.2.2",
         "typescript": "^5.0.2"
     },
     "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.4.0",
+        "@fortawesome/free-regular-svg-icons": "^6.4.0",
+        "@fortawesome/free-solid-svg-icons": "^6.4.0",
+        "@fortawesome/vue-fontawesome": "^3.0.3",
         "vue": "^3.2.47",
+        "vue-class-component": "^8.0.0-0",
+        "vue-input-autowidth": "^1.0.11",
         "vue-router": "^4.1.6"
     }
 }
